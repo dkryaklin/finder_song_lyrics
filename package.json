@@ -1,0 +1,13 @@
+{
+    "name": "finder-songs-lyrics",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node ./src/app"
+    },
+    "dependencies": {
+        "cheerio": "^0.22.0",
+        "node-telegram-bot-api": "^0.27.0",
+        "request": "^2.79.0"
+    }
+}
